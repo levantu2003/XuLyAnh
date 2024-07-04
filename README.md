@@ -1,4 +1,4 @@
-# Đồ án môn xử lý ảnh
+# Đồ án môn xử lý ảnh (nhóm 3 người)
 <h2>Các thuật toán sử dụng</h2>
 
 + Canny
